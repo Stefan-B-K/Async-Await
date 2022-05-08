@@ -1,0 +1,16 @@
+{
+  "name": "183-03-await-keyword",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "exectimer": "^2.2.2"
+  },
+  "type": "module"
+}
